@@ -15,7 +15,7 @@ const skills = [
     },
     {
         icon: repair,
-        title: 'Lorem ipsum dolor sit.',
+        title: 'Lorem isdsdsdsdpsum dolor sit.',
         about: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, consequatar.'
     },
     {
