@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6492f9a2.chunk.css",
+    "main.js": "/static/js/main.b75b5b87.chunk.js",
+    "main.js.map": "/static/js/main.b75b5b87.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.64d1a690.chunk.js": "/static/js/2.64d1a690.chunk.js",
+    "static/js/2.64d1a690.chunk.js.map": "/static/js/2.64d1a690.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5272327724ff5786639bb499f7016280.js": "/precache-manifest.5272327724ff5786639bb499f7016280.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6492f9a2.chunk.css.map": "/static/css/main.6492f9a2.chunk.css.map",
+    "static/js/2.64d1a690.chunk.js.LICENSE.txt": "/static/js/2.64d1a690.chunk.js.LICENSE.txt",
+    "static/media/AnasResume.pdf": "/static/media/AnasResume.b95a4eaa.pdf",
+    "static/media/facebook.svg": "/static/media/facebook.f9de737f.svg",
+    "static/media/github.svg": "/static/media/github.2c472603.svg",
+    "static/media/instagram.svg": "/static/media/instagram.bb5903db.svg",
+    "static/media/mightycoder.svg": "/static/media/mightycoder.a13311a3.svg",
+    "static/media/pin.svg": "/static/media/pin.9aa92c21.svg",
+    "static/media/tie.svg": "/static/media/tie.d8c6f553.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.64d1a690.chunk.js",
+    "static/css/main.6492f9a2.chunk.css",
+    "static/js/main.b75b5b87.chunk.js"
+  ]
+}
